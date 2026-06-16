@@ -1,5 +1,7 @@
 # Ustaw Claude'a pod siebie
 
+![cover](cover.jpg)
+
 Praktyczny poradnik w 8 krokach — bez kodowania, bez technikaliów. Konfiguracja, która sprawia że Claude przestaje być generycznym chatbotem i zaczyna działać jak asystent, który zna Ciebie i Twoją pracę.
 
 ## Co środku
