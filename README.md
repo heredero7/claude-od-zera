@@ -18,7 +18,7 @@ Praktyczny poradnik w 8 krokach — bez kodowania, bez technikaliów. Konfigurac
 | `ustaw-claudea-pod-siebie.md` | Wgraj do projektu Claude / innego LLM i ucz się z niego interaktywnie |
 | `Ustaw-Claudea-pod-siebie.pdf` | Czytelna wersja do przeglądania, drukowania, przesłania komuś |
 
-Oba pliki zawierają tę samą treść. Markdown jest zoptymalizowany pod LLM — nie ma ozdobników, jest czysty tekst z nagłówkami.
+Oba pliki zawierają tę samą treść. Markdown jest zoptymalizowany pod LLM — wgraj go do projektu Claude i ucz się interaktywnie. PDF jest do czytania, drukowania i przesyłania dalej.
 
 ## Dla kogo
 
